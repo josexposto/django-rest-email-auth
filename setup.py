@@ -14,7 +14,7 @@ setup(
     long_description=get_description(),
     author="Chathan Driehuys",
     author_email="chathan@driehuys.com",
-    url="https://github.com/cdriehuys/django-rest-email-auth",
+    url="https://github.com/josexposto/django-rest-email-auth",
     license="MIT",
     # Additional classifiers for PyPI
     classifiers=[
